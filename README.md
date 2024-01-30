@@ -1,7 +1,7 @@
 Description:
 This is an efficient toolbox for electrophysiological data analysis.
 
-Functions:
+Function:
 read ABF files,
 batch calculate Ra and Rm for data quality control,
 batch analyze charge of EPSC or IPSC, pair-pulse ratio, amplitudes of action potentials and spike adaption automatically,
