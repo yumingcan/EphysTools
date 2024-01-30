@@ -5,7 +5,7 @@ Function:
 read ABF files,
 batch calculate Ra and Rm for data quality control,
 batch analyze charge of EPSC or IPSC, pair-pulse ratio, amplitudes of action potentials and spike adaption automatically,
-and finally batch output organized results in Excel files.
+and finally output organized results in Excel files.
 
 Contribution:
 Mingcan Yu designed, developed and improved this toolbox.
